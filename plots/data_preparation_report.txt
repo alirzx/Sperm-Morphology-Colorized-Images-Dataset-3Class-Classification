@@ -1,0 +1,21 @@
+Sperm Morphology Dataset Preparation Report
+==================================================
+
+Total images: 4200
+Train set: 3000 images
+  Normal_Sperm: 1000 images
+  Non_Sperm: 0 images
+  Abnormal_Sperm: 1000 images
+Validation set: 600 images
+  Normal_Sperm: 200 images
+  Non_Sperm: 0 images
+  Abnormal_Sperm: 200 images
+Test set: 600 images
+  Normal_Sperm: 200 images
+  Non_Sperm: 0 images
+  Abnormal_Sperm: 200 images
+
+Batch sizes:
+Train: 32
+Validation: 32
+Test: 32
